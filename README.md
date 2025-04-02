@@ -1,2 +1,5 @@
 # Beginner-projects-python
-This repository includes basic python applications 
+These are projects i created in my university course "Introduction to Computer Science"
+Language used: python 3
+
+# Project 2
