@@ -19,14 +19,14 @@ It stops after completing 200 words or when no sequence can be found. The output
 # Project 9
 Takes an ASCII text file as input and counts the occurances of each letter. 
 Later, it calculates the appearance percentage for each letter and diplays them using text.
-* represents 1%. For example:
+'*' represents 1%. For example: <br>
 C: *** is 3%
 
 <br><br><br>
 
 # Project 10
-It gets as input a dictionary and it calculates the maximum depth. 
-Depth is increased when the dictionary contains nested dictionary or nested list.
-{} βάθος: 0
-{"x":5} βάθος: 1
-{"x":5,"y":[1,2,3]} βάθος: 2
+It gets as input a dictionary and it calculates the maximum depth. <br>
+Depth is increased when the dictionary contains nested dictionary or nested list.<br>
+{} βάθος: 0<br>
+{"x":5} βάθος: 1<br>
+{"x":5,"y":[1,2,3]} βάθος: 2<br>
