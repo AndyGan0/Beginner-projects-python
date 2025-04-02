@@ -17,8 +17,8 @@ It stops after completing 200 words or when no sequence can be found. The output
 <br><br><br>
 
 # Project 9
-Takes an ASCII text file as input and counts the occurances of each letter. 
-Later, it calculates the appearance percentage for each letter and diplays them using text.
+Takes an ASCII text file as input and counts the occurances of each letter. <br>
+Later, it calculates the appearance percentage for each letter and diplays them using text.<br>
 '*' represents 1%. For example: <br>
 C: *** is 3%
 
