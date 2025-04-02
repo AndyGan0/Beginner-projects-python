@@ -1,5 +1,5 @@
 # Beginner-projects-python
-These are projects i created in my university course "Introduction to Computer Science"
+These are projects i created in my university course "Introduction to Computer Science" <br>
 Language used: Python 3
 
 <br><br><br>
